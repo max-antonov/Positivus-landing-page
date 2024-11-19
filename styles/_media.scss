@@ -72,7 +72,7 @@ $mobile-s: 480px;
     }    
 }
 
-button {
+.button {
     background-color: lightblue;
 
     @include hover {
